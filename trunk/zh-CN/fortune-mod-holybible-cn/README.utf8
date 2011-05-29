@@ -1,0 +1,18 @@
+holybible-cn(和合本圣经) README
+========================================
+
+Distributed under the terms of the GNU General Public License v2
+
+本软件可以从这里下载：
+http://code.google.com/p/chinese-fortune/
+http://chinese-fortune.googlecode.com/svn/trunk/
+
+请按照INSTALL文件进行安装。
+
+通过以下命令使用本软件：
+fortune holybible-cn
+
+本软件提供了图形界面的程序：
+gfortune-holybible-cn
+运行这个程序时，按Ok继续显示下一条内容，按Cancel退出。
+

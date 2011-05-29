@@ -1,0 +1,5 @@
+Installation:
+To install fortune-mod-holybible-cn, simply run 'make install' in the directory where you untarred the program files. The makefile depends on fortun's data files being installed in /usr/share/fortune (which is standard on Gentoo). If fortune is installed elsewhere, change the FORTUNE_DIR variable in the makefile.
+
+Uninstallation:
+To uninstall, simply run 'make uninstall'.
